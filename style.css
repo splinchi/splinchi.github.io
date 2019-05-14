@@ -1,0 +1,32 @@
+html {
+	height: 100%;
+	min-height: 100%;
+}
+
+body {
+	min-height: 100%;
+	background-image: url(https://images.unsplash.com/photo-1549829844-c990ddca3d69?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80);
+	background-size: cover;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+h1 {
+	color: #FFE6AA;
+	font-family: Forte;
+	font-weight: bold;
+	text-decoration: underline;
+	
+}
+
+.header {
+	padding: 30px 0px 30px 0px;
+}
+
+.btn {
+	color: #36393C;
+	background-color: #FDA600;
+	font-family: Forte;
+}
+
